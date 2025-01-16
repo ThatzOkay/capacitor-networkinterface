@@ -1,7 +1,7 @@
 {
   "name": "capacitor-networkinterface",
   "version": "0.0.1",
-  "description": "a",
+  "description": "Plugin to show information about devices network",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -15,14 +15,14 @@
     "Package.swift",
     "CapacitorNetworkinterface.podspec"
   ],
-  "author": "",
-  "license": "closed",
+  "author": "ThatzOkay",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://g.bl.git"
+    "url": "git+https://github.com/ThatzOkay/capacitor-networkinterface"
   },
   "bugs": {
-    "url": "https://g.bl/issues"
+    "url": "https://github.com/ThatzOkay/capacitor-networkinterface/issues"
   },
   "keywords": [
     "capacitor",
