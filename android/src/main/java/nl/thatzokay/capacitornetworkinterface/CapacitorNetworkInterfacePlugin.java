@@ -1,4 +1,4 @@
-package nl.bgma.capacitornetworkinterface;
+package nl.thatzokay.capacitornetworkinterface;
 
 import android.Manifest;
 import android.os.Build;
